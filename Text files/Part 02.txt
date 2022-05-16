@@ -1,0 +1,349 @@
+What does ‘‘blit’’ stand for?
+A. Blitzkrieg
+B. Bit-block transfer
+C. Bit-wise transparency
+D. Basic logarithmic infrared transmitter
+B. Bit-block transfer
+
+What is a DHD?
+A. Dynamic hard drive
+B. Destructive hyperactivity disorder
+C. Dial home device
+D. That wasn’t in the chapter!
+C. Dial home device
+
+How many pixels are there in an 800600 screen?
+A. 480,000
+B. 28,800,000
+C. 65,538
+D. 47
+A. 480,000
+
+What is the name of the object used to hold a bitmap in memory?
+A. hold_bitmap
+B. create_bitmap
+C. OBJECT
+D. BITMAP
+D. BITMAP
+
+Allegorically speaking, why is it important to destroy bitmaps after you’re done using them?
+A. Because bitmaps are evil and must be destroyed.
+B. Because Microsoft Windows is the mayor.
+C. Because the trash will pile up over time.
+D. Because you can’t reboot your home town.
+C. Because the trash will pile up over time.
+
+Which Allegro function has the potential to create a black hole if used improperly?
+A. acquire_bitmap
+B. create_supernova
+C. do_feedback
+D. release_bitmap
+A. acquire_bitmap
+
+What types of graphics files are supported by Allegro?
+A. PCX, LBM, BMP, and GIF
+B. BMP, PCX, LBM, and TGA
+C. GIF, JPG, PNG, and BMP
+D. TGA, TIF, JPG, and BMP
+B. BMP, PCX, LBM, and TGA
+
+What function is used to draw a scaled bitmap?
+A. draw_scaled_bitmap
+B. stretch_blit
+C. scaled_blit
+D. masked_scaled_blit
+B. stretch_blit
+
+Why would you want to lock the screen while drawing on it?
+A. If it’s not locked, Allegro will lock and unlock the screen for every draw.
+B. To prevent anyone else from drawing on your screen.
+C. To keep the screen from getting away while you’re using it.
+D. To prevent a feedback loop that could destroy your monitor.
+A. If it’s not locked, Allegro will lock and unlock the screen for every draw.
+
+What is the name of the game you’ve been developing in this book?
+A. Super Allegro Bros.
+B. Barbie’s Motorhome Adventure
+C. Teenage Neutered Midget Poodles
+D. Tank War
+D. Tank War
+
+What is the term given to a small image that is moved around on the screen?
+A. Bitmap
+B. Sprite
+C. Fairy
+D. Mouse cursor
+B. Sprite
+
+Which function draws a sprite?
+A. draw_sprite
+B. show_sprite
+C. display_sprite
+D. blit_sprite
+A. draw_sprite
+
+What is the term for drawing all but a certain color of pixel from one bitmap to another?
+A. Alpha blending
+B. Translucency
+C. Transparency
+D. Telekinesis
+C. Transparency
+
+Which function draws a scaled sprite?
+A. stretch_sprite
+B. draw_scaled_sprite
+C. draw_stretched_sprite
+D. scale_sprite
+A. stretch_sprite
+
+Which function draws a vertically flipped sprite?
+A. draw_vertical_flip
+B. draw_sprite_v_flip
+C. flip_v_sprite
+D. draw_flipped_sprite
+B. draw_sprite_v_flip
+
+Which function draws a rotated sprite?
+A. rotate_angle
+B. draw_rotated_sprite
+C. draw_rotation
+D. rotate_sprite
+D. rotate_sprite
+
+Which function draws a sprite with both rotation and scaling?
+A. draw_sprite_rotation_scaled
+B. rotate_scaled_sprite
+C. draw_rotated_scaled_sprite
+D. scale_rotate_sprite
+B. rotate_scaled_sprite
+
+What function draws a pivoted sprite?
+A. draw_pivoted_sprite
+B. draw_pivot_sprite
+C. pivot_sprite
+D. draw_sprite_pivot
+C. pivot_sprite
+
+Which function draws a pivoted sprite with scaling and vertical flip?
+A. pivot_scaled_sprite_v_flip
+B. pivot_stretch_v_flip_sprite
+C. draw_scaled_pivoted_flipped_sprite
+D. scale_pivot_v_flip_sprite
+A. pivot_scaled_sprite_v_flip
+
+Which function draws a sprite with translucency (alpha blending)?
+A. alpha_blend_sprite
+B. draw_trans_sprite
+C. draw_alpha
+D. trans_sprite
+B. draw_trans_sprite
+
+Which function draws a standard sprite?
+A. draw_standard_sprite
+B. standard_sprite
+C. draw_sprite
+D. blit_sprite
+C. draw_sprite
+
+What is a frame in the context of sprite animation?
+A. A single image in the animation sequence
+B. The bounding rectangle of a sprite
+C. The source image for the animation sequence
+D. A buffer image used to store temporary copies of the sprite
+A. A single image in the animation sequence
+
+What is the purpose of a sprite handler?
+A. To provide a consistent way to animate and manipulate many sprites on the screen
+B. To prevent sprites from moving beyond the edges of the screen
+C. To provide a reusable sprite drawing function
+D. To keep track of the sprite position
+A. To provide a consistent way to animate and manipulate many sprites on the screen
+
+What is a struct element?
+A. A property of a struct
+B. A sprite behavior
+C. The underlying Allegro sprite handler
+D. A variable in a structure
+D. A variable in a structure
+
+Which term describes a single frame of an animation sequence stored in an image file?
+A. Snapshot
+B. Tile
+C. Piece
+D. Take
+B. Tile
+
+Which Allegro function is used frequently to erase a sprite?
+A. rectfill
+B. erase_sprite
+C. destroy_sprite
+D. blit
+A. rectfill
+
+Which term describes a reusable activity for a sprite that is important in a game?
+A. Collision
+B. Animation
+C. Bounding
+D. Behavior
+D. Behavior
+
+What is the name of the new function that draws an animation frame to the screen?
+A. drawanim
+B. drawframe
+C. animate
+D. nextimage
+B. drawframe
+
+Which term best describes an image filled with rows and columns of small sprite images?
+A. scrolling
+B. sprite bitmap
+C. sprite sheet
+D. sprite tiles
+C. sprite sheet
+
+How does a sprite struct improve the source code of a game?
+A. Reduces global variable use
+B. Eliminates code comments
+C. Helps align code blocks
+D. Consolidates code into functions
+A. Reduces global variable use
+
+What function will convert a normal bitmap in memory into a compressed RLE sprite?
+A. convert_rle_sprite
+B. get_rle_sprite
+C. make_rle_sprite
+D. create_rle_sprite
+B. get_rle_sprite
+
+What function will draw a compressed RLE sprite?
+A. draw_sprite
+B. copy_rle_sprite
+C. draw_rle_sprite
+D. rle_blit
+C. draw_rle_sprite
+
+What function converts a normal bitmap into a compiled sprite?
+A. convert_compiled_sprite
+B. make_compiled_sprite
+C. create_compiled_sprite
+D. get_compiled_sprite
+D. get_compiled_sprite
+
+What is the name of the function presented in this chapter for performing bounding-rectangle collision testing?
+A. collided
+B. collision
+C. colliding
+D. test_collision
+A. collided
+
+What is the name of the function in the sprite class presented in this chapter that draws a single frame of an animation sequence?
+A. drawanimation
+B. nextframe
+C. drawframe
+D. draw_sprite
+C. drawframe
+
+What is the name of the function that calculates angular velocity for X?
+A. calculatevelocity
+B. velocityx
+C. calc_angle_x
+D. calcAngleMoveX
+C. calc_angle_x
+
+What mathematical function is called on to calculate the angular velocity for Y?
+A. sine
+B. cosine
+C. tangent
+D. arcsine
+A. sine
+
+Which function converts a normal sprite into a run-length encoded sprite?
+A. convert_sprite
+B. get_rle_sprite
+C. convert_to_rle
+D. load_rle_sprite
+B. get_rle_sprite
+
+Which function draws a compiled sprite to a destination bitmap?
+A. draw_compiled
+B. draw_comp_sprite
+C. draw_compiled_sprite
+D. compiled_sprite
+C. draw_compiled_sprite
+
+What is the easiest (and most efficient) way to detect sprite collisions?
+A. Bounding rectangle intersection
+B. Pixel comparison
+C. Bilinear quadratic evaluation
+D. Union of two spheres
+A. Bounding rectangle intersection
+
+Why is it important to use a timer in a game?
+A. To maintain a consistent frame rate
+B. To include support for interrupts
+C. To make the program thread-safe
+D. To delegate code to multiple threads
+A. To maintain a consistent frame rate
+
+Which Allegro timer function slows down the program using a callback function?
+A. callback_rest
+B. sleep_callback
+C. rest
+D. rest_callback
+D. rest_callback
+
+What is the name of the function used to initialize the Allegro timer?
+A. init_timer
+B. install_timer
+C. timer_reset
+D. start_timer
+B. install_timer
+
+What is the name of the function that creates a new interrupt handler?
+A. create_handler
+B. create_interrupt
+C. int_callback
+D. install_int
+D. install_int
+
+What variable declaration keyword should be used with interrupt variables?
+A. danger
+B. cautious
+C. volatile
+D. corruptible
+C. volatile
+
+What function must you call during program startup to initialize the timer system?
+A. create_timer
+B. init_timer
+C. install_timer
+D. make_timer
+C. install_timer
+
+What is the name of the function that provides a callback function for slowing down the program?
+A. rest_callback
+B. pause_proc
+C. wait_func
+D. sleep_callback
+A. rest_callback
+
+Which function should you use to slow down the game, causing the program to pause for a certain number of millseconds?
+A. wait
+B. pause
+C. rest
+D. sleep
+C. rest
+
+What function must you call to prepare a variable for use within an interruptbcallback routine?
+A. lock_object
+B. LOCK_VARIABLE
+C. prepare_variable
+D. PROTECT_VARIABLE
+B. LOCK_VARIABLE
+
+What function must you call to prepare a function for use as an interrupt callback?
+A. lock_object
+B. PREPARE_FUNCTION
+C. prepare_routine
+D. LOCK_FUNCTION
+D. LOCK_FUNCTION

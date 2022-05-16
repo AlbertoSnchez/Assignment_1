@@ -1,0 +1,349 @@
+Does Allegro provide support for background scrolling?
+A. Yes, but the functionality is obsolete
+B. Yes, it’s fully integrated
+C. Only partially
+D. Not at all
+A. Yes, but the functionality is obsolete
+
+What does a scroll window show?
+A. A small part of a larger game world
+B. Pictures of scrolls
+C. A window moving up and down
+D. A single tile of the map
+A. A small part of a larger game world
+
+Which of the programs in this chapter demonstrated bitmap scrolling for the first time?
+A. TileScroll
+B. DynamicScroller
+C. ScrollScreen
+D. ScrollTest
+C. ScrollScreen
+
+Why should a scrolling background be designed?
+A. To improve the game’s appearance
+B. To enlarge the game world
+C. To increase sales potential
+D. To achieve the goals of the game
+D. To achieve the goals of the game
+
+Which process uses an array of images to construct the background as it is displayed?
+A. Sprite blitting
+B. Image compositing
+C. Tiling
+D. Level editing
+C. Tiling
+
+What is the best way to create a tile map of the game world?
+A. By using a map editor
+B. By storing level data as a const array
+C. By generating random tiles
+D. By using a custom level editor
+A. By using a map editor
+
+What type of object comprises a typical tile map?
+A. Strings
+B. Binary data
+C. Numbers
+D. Pointers
+C. Numbers
+
+What was the size of the virtual background in the GameWorld program?
+A. 800800
+B. 8,0008,000
+C. 1,0002,000
+D. 32,00032,000
+A. 800800
+
+How many virtual backgrounds are used in the new version of Tank War?
+A. 0
+B. 1
+C. 2
+D. 3
+B. 1
+
+How many scrolling windows are used in the new Tank War?
+A. 0
+B. 1
+C. 2
+D. 3
+C. 2
+
+What is the home site for Mappy?
+A. http://www.mappy.com
+B. http://www.maptiles.com
+C. http://www.tilemap.co.uk
+D. http://www.mappy.co.uk
+C. http://www.tilemap.co.uk
+
+What kind of information is stored in a map file?
+A. Data that represent the tiles comprising a game world
+B. Data that specify the game environment
+C. Data that describe the characters in a game
+D. Data that identify the background images of a game
+A. Data that represent the tiles comprising a game world
+
+What name is given to the graphic images that make up a Mappy level?
+A. Sprites
+B. Levels
+C. Maps
+D. Tiles
+D. Tiles
+
+What is the default extension of a Mappy file?
+A. SMF
+B. MAP
+C. FMP
+D. BMP
+C. FMP
+
+Where does Mappy store the saved tile images?
+A. Inside a new bitmap file
+B. Inside the map file
+C. In individual bitmap files
+D. At a location specified by the user
+B. Inside the map file
+
+What is one example of a retail game that uses Mappy levels?
+A. Hot Wheels: Stunt Track Driver 2
+B. Hyperspace Delivery Boy
+C. Real War: Rogue States
+D. Wayne Gretzky and the NHLPA All-Stars
+B. Hyperspace Delivery Boy
+
+What is the recommended format for an exported Mappy level?
+A. Binary
+B. Hexadecimal
+C. XML
+D. Text map data
+D. Text map data
+
+Which macro in Mappy fills a map with a specified tile?
+A. Solid Rectangle
+B. Fill Map
+C. Solid Fill
+D. Fill Tiles
+A. Solid Rectangle
+
+How much does a licensed copy of Mappy cost?
+A. $10
+B. $20
+C. $30
+D. It’s free!
+D. It’s free!
+
+What scripting language does Mappy support?
+A. BASIC
+B. LUA
+C. Python
+D. ASP
+B. LUA
+
+What is the name of the map editor we’ve been using in this chapter?
+A. Tile Editor
+B. Map Edit
+C. Mappy
+D. TestMappy
+C. Mappy
+
+What is the name of the function used to load a level/map file?
+A. MapLoad
+B. LoadLevel
+C. OpenMap
+D. ReadLevel
+A. MapLoad
+
+What is the name of the helper library used in this chapter to load game levels/maps?
+A. LevelLib
+B. MappyAL
+C. SpriteLib
+D. MapFile
+B. MappyAL
+
+What function would you use to draw the foreground layer of a map?
+A. DrawForeground
+B. DrawMapLayer
+C. DrawLevelFG
+D. MapDrawFG
+D. MapDrawFG
+
+What is the name of the global variable containing the width of a tile map that has been loaded?
+A. tilemapwidth
+B. mapwidth
+C. tileMapSizeX
+D. tilewidth
+B. mapwidth
+
+What function is used to draw the background layer of a map?
+A. DrawBG
+B. MapDrawBG
+C. DrawBackground
+D. DrawMapLayer
+B. MapDrawBG
+
+What function returns the tile number at a specified x,y position on the map?
+A. gettilenumber
+B. getmaptile
+C. MapGetBlockID
+D. mapGetTile
+C. MapGetBlockID
+
+What is the name of the global variable containing the height value of tiles contained in the map file that has been loaded?
+A. maptilesize
+B. tileheight
+C. mapblockheight
+D. blocksize
+C. mapblockheight
+
+What function should you call before ending the program to free the memory used by map data?
+A. MapFreeMem
+B. freemapdata
+C. deleteMap
+D. clearMapData
+A. MapFreeMem
+
+Which MappyAL library function loads a Mappy file?
+A. MapLoad
+B. LoadMap
+C. MappyLoad
+D. OpenMap
+A. MapLoad
+
+In which game genre does the vertical shooter belong?
+A. Shoot-em-up
+B. Platform
+C. Fighting
+D. Real-time strategy
+A. Shoot-em-up
+
+What is the name of the support library used as the vertical scroller engine?
+A. ScrollerEngine
+B. VerticalScroller
+C. MappyAL
+D. AllegroScroller
+C. MappyAL
+
+What are the virtual pixel dimensions of the levels in Warbirds Pacifica?
+A. 640480
+B. 48,000640
+C. 201,500
+D. 64048,000
+D. 64048,000
+
+What is the name of the level-editing program used to create the first level of Warbirds Pacifica?
+A. Happy
+B. Mappy
+C. Snappy
+D. Frappy
+B. Mappy
+
+How many tiles comprise a level in Warbirds Pacifica?
+A. 30,000
+B. 1,500
+C. 48,000
+D. 32,768
+A. 30,000
+
+Which of the following games is a vertical scrolling shooter?
+A. R-Type
+B. Mars Matrix
+C. Contra
+D. Castlevania
+B. Mars Matrix
+
+Who created the artwork featured in this chapter?
+A. Ray Kurzweil
+B. Clifford Stoll
+C. Ari Feldman
+D. Nicholas Negroponte
+C. Ari Feldman
+
+Which MappyAL function loads a map file?
+A. LoadMap
+B. MapLoad
+C. LoadMappy
+D. ReadLevel
+B. MapLoad
+
+Which MappyAL function removes a map from memory?
+A. destroy_map
+B. free_mappy
+C. DeleteMap
+D. MapFreeMem
+D. MapFreeMem
+
+Which classic arcade game inspired Warbirds Pacifica?
+A. Pac-Man
+B. Mars Matrix
+C. 1942
+D. Street Fighter II
+C. 1942
+
+Which term is often used to describe a horizontal-scrolling game with a walking character?
+A. Shooter
+B. Platform
+C. RPG
+D. Walker
+B. Platform
+
+What is the name of the map-editing tool you have used in the last several chapters?
+A. Mappy
+B. Map Editor
+C. Mapper
+D. Tile Editor
+A. Mappy
+
+What is the identifier for the Mappy block property representing the background?
+A. BG1
+B. BACK
+C. BG
+D. BGND
+A. BG1
+
+What is the identifier for the Mappy block property representing the first foreground layer?
+A. FG1
+B. FORE1
+C. FG
+D. LV1
+A. FG1
+
+Which dialog box allows the editing of tile properties in Mappy?
+A. Tile Properties
+B. Map Tile Editor
+C. Map Block Editor
+D. Block Properties
+D. Block Properties
+
+Which menu item brings up the Range Alter Block Properties dialog?
+A. Range Alter Block Properties
+B. Range Edit Blocks
+C. Range Edit Tile Properties
+D. Range Block Edit
+B. Range Edit Blocks
+
+What is the name of the MappyAL struct that contains information about tile blocks?
+A. BLOCKS
+B. TILEBLOCK
+C. BLKSTR
+D. BLKINFO
+C. BLKSTR
+
+What MappyAL function returns a pointer to a block specified by the (x,y) parameters?
+A. MapGetBlock
+B. GetDataBlock
+C. GetTileAt
+D. MapGetTile
+A. MapGetBlock
+
+What is the name of the function that draws the map’s background?
+A. MapDrawBG
+B. DrawBackground
+C. DrawMapBack
+D. DrawMapBG
+A. MapDrawBG
+
+Which MappyAL block struct member was used to detect collisions in the sample program?
+A. bl
+B. br
+C. tl
+D. tr
+C. tl

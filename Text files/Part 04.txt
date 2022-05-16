@@ -1,0 +1,419 @@
+What is the best way to get started creating a new game?
+A. Write the source code for a prototype
+B. Create a game design document
+C. Hire the cast and crew
+D. Play other games to engender some inspiration
+D. Play other games to engender some inspiration
+
+What types of games are full of creativity and interesting technology that PC gamers often fail to notice?
+A. Console games
+B. Arcade games
+C. PC games
+D. Board games
+A. Console games
+
+What phrase best describes the additional features and extras in a game?
+A. Bonus levels
+B. Easter eggs
+C. Bells and whistles
+D. Updates and patches
+C. Bells and whistles
+
+What is usually the most complicated core component of a game, also called the graphics renderer?
+A. The DirectX library
+B. The Allegro library
+C. The double-buffer
+D. The game engine
+D. The game engine
+
+What is the name of an initial demonstration of a game that presents the basic gameplay elements before the actual game has been completed?
+A. Beta
+B. Prototype
+C. Demo
+D. Release
+B. Prototype
+
+What is the name of the document that contains the blueprints for a game?
+A. Game document
+B. Blueprint document
+C. Design document
+D. Construction document
+C. Design document
+
+What are the two types of game designs presented in this chapter?
+A. Mini and complete
+B. Partial and full
+C. Prototype and final
+D. Typical and sarcastic
+A. Mini and complete
+
+What does NPC stand for?
+A. Non-Pertinent Character
+B. Non-Practical Condition
+C. Non-Perfect Caricature
+D. Non-Player Character
+D. Non-Player Character
+
+What are the chances of a newcomer finding a job as a full-time game programmer or designer?
+A. Guaranteed
+B. Pretty good
+C. Questionable
+D. Negligible
+D. Negligible
+
+What is the most important aspect of game development?
+A. Design
+B. Artwork
+C. Programming
+D. Implementation
+A. Design
+
+What is the shorthand term for an Allegro datafile?
+A. datafile
+B. datfile
+C. datafile
+D. ADF
+B. datfile
+
+What compression algorithm does Allegro use for compressed datafiles?
+A. LZSS
+B. LZH
+C. ZIP
+D. RAR
+A. LZSS
+
+What is the command-line program that is used to manage Allegro datafiles?
+A. data.exe
+B. datafile.exe
+C. datafile.exe
+D. dat.exe
+D. dat.exe
+
+What is the Allegro datafile object struct called?
+A. DATA_FILE
+B. DATAFILE
+C. DAT_FILE
+D. AL_DATFILE
+B. DATAFILE
+
+What function is used to load a datafile into memory?
+A. open_data_file
+B. load_dat
+C. load_datfile
+D. load_datafile
+D. load_datafile
+
+What is the data type format shortcut string for bitmap files?
+A. BITMAP_IMAGE
+B. BITMAP
+C. BMP
+D. DATA_BITMAP
+C. BMP
+
+What is the data type constant for wave files, defined by Allegro for use in reading datafiles?
+A. DAT_RIFF_WAV
+B. DAT_WAVE
+C. DAT_SAMPLE
+D. DAT_SOUND
+C. DAT_SAMPLE
+
+What is the dat option to specify the type of file being added to the datafile?
+A. -t <type>
+B. -a <type>
+C. -d <type>
+D. -s <type>
+A. -t <type>
+
+What is the dat option to specify the color depth of a bitmap file being added to the datafile?
+A. -c <depth>
+B. -d <depth>
+C. -bpp <depth>
+D. -color <depth>
+C. -bpp <depth>
+
+Which function loads an individual object from a datafile?
+A. load_data_object
+B. load_object_file
+C. load_datafile
+D. load_datafile_object
+D. load_datafile_object
+
+Which company developed the FLI/FLC file format?
+A. Autodesk
+B. Borland
+C. Microsoft
+D. Bungie
+A. Autodesk
+
+Which product first used the FLI format?
+A. 3D Studio Max
+B. WordPerfect
+C. Animator
+D. PC Paintbrush
+C. Animator
+
+Which product premiered the more advanced FLC format?
+A. Animator Pro
+B. PC Animation
+C. Dr. Halo
+D. CorelDRAW
+A. Animator Pro
+
+What is the common acronym used to describe both FLI and FLC files?
+A. FLICK
+B. FLICKS
+C. FLI/C
+D. FLIC
+D. FLIC
+
+Which function plays an FLIC file directly?
+A. play_fli
+B. direct_play
+C. play_animation
+D. play_flic
+A. play_fli
+
+How many FLIC files can be played back at a time by Allegro?
+A. 1
+B. 2
+C. 3
+D. 4
+A. 1
+
+Which function loads a FLIC file for low-level playback?
+A. load_fli
+B. read_fli
+C. open_fli
+D. shoo_fli
+C. open_fli
+
+Which function moves the animation to the next frame in an FLIC file?
+A. next_fli_frame
+B. get_next_frame
+C. move_frame
+D. next_fli
+A. next_fli_frame
+
+What is the name of the variable used to set the timing of FLIC playback?
+A. flic_frames
+B. playback_timer
+C. fli_playback
+D. fli_timer
+D. fli_timer
+
+What is the name of the variable that contains the bitmap of the current FLIC frame?
+A. fli_frame
+B. fli_bitmap
+C. fli_image
+D. current_fli
+B. fli_bitmap
+
+Which of the following is not one of the three deterministic algorithms covered in this chapter?
+A. Random logic
+B. Tracking
+C. Conditions
+D. Patterns
+C. Conditions
+
+Can fuzzy matrices be used without multiplying the input memberships? Why or why not?
+A. No, it is absolutely necessary to multiply the input memberships.
+B. Yes, but only after negating the matrix
+C. Yes, it is possible using AND and OR operators, and then randomly selecting action for the active cell.
+D. Yes, it is possible using XOR and NOT operators after multiplying the matrix.
+A. No, it is absolutely necessary to multiply the input memberships.
+
+Which type of system solves problems that are usually solved by specialized humans?
+A. Expert system
+B. Deterministic algorithm
+C. Conditional algorithm
+D. If-Then-Else
+A. Expert system
+
+Which type of intelligence system is based on an expert system, but is capable of determining fractions of complete answers?
+A. Genetic algorithm
+B. Fuzzy logic
+C. Deterministic algorithm
+D. Expert system
+B. Fuzzy logic
+
+Which type of intelligence system uses a method of computing solutions for a hereditary logic problem?
+A. Expert system
+B. Fuzzy logic
+C. Genetic algorithm
+D. Conditional logic
+C. Genetic algorithm
+
+Which type of intelligence system solves problems by imitating the workings of a brain?
+A. State machine
+B. Genetic algorithm
+C. Fuzzy logic
+D. Neural network
+D. Neural network
+
+Which of the following uses predetermined behaviors of objects in relation to the universe problem?
+A. Genetic algorithm
+B. Deterministic algorithm
+C. Fuzzy logic
+D. Neural network
+B. Deterministic algorithm
+
+Which type of deterministic algorithm ‘‘fakes’’ intelligence?
+A. Patterns
+B. Tracking
+C. Random motion
+D. Logic
+C. Random motion
+
+Which type of deterministic algorithm will cause one object to follow another?
+A. Tracking
+B. Conditional
+C. Patterns
+D. Random motion
+A. Tracking
+
+Which type of deterministic algorithm follows preset templates?
+A. Tracking
+B. Random motion
+C. Genetic
+D. Patterns
+D. Patterns
+
+What library did we use in this chapter to work with multi-threading?
+A. AllegroThreads
+B. pthread
+C. allegThreads
+D. BerkeleyThreads
+B. pthread
+
+Which company maintains the multi-threading library for Windows systems used in this chapter?
+A. Red Hat
+B. Microsoft
+C. Sears
+D. Borland
+A. Red Hat
+
+Which function will terminate a thread?
+A. threadkill
+B. unloadthread
+C. pthread_exit
+D. threadTerminate
+C. pthread_exit
+
+What type of parameter does a thread callback function require?
+A. int thread_id
+B. void *data
+C. THREAD *thread_data
+D. thread *data
+B. void *data
+
+What is the most common method of keeping a thread running inside a thread callback function?
+A. thread callback
+B. mutex
+C. thread function
+D. while loop
+D. while loop
+
+What is a process that runs within the memory space of a single program but is executed separately from that program?
+A. mutex
+B. process
+C. thread
+D. interrupt
+C. thread
+
+What helps protect data by locking it inside a single thread, preventing that data from being used by another thread until it is unlocked?
+A. mutex
+B. process
+C. thread
+D. interrupt
+A. mutex
+
+What does pthread stand for?
+A. Protected Thread
+B. Public Thread
+C. POSIX Thread
+D. Purple Thread
+C. POSIX Thread
+
+What is the name of the function used to create a new thread?
+A. create_posix_thread
+B. pthread_create
+C. install_thread
+D. thread_callback
+B. pthread_create
+
+What is the name of the function that locks a mutex?
+A. lock_pthread_mutex
+B. lock_mutex
+C. pthread_lock_mutex
+D. pthread_mutex_lock
+D. pthread_mutex_lock
+
+What is the first step you must take before attempting to get your game published?
+A. Evaluate the game
+B. Sell the game
+C. Test the game
+D. Release the game
+A. Evaluate the game
+
+What is the most important question to consider in a game before seeking a publisher?
+A. Is it challenging?
+B. Is it fun to play?
+C. Is it graphically attractive?
+D. Is it marketable?
+C. Is it graphically attractive?
+
+What is the second most important aspect of a game?
+A. Graphics
+B. Sound
+C. Music
+D. Input
+B. Sound
+
+What is an important factor of gameplay, in the sense of a beginning, middle, and ending, that must be considered?
+A. Progression
+B. Goals
+C. Difficulty
+D. Continuity
+D. Continuity
+
+What adjective best describes a best-selling game?
+A. Large
+B. Complex
+C. Cute
+D. Addictive
+D. Addictive
+
+What is an NDA?
+A. Never Diverge Anonymity
+B. No Disco Allowed
+C. Non-Disclosure Agreement
+D. Non-Discussion Agreement
+C. Non-Disclosure Agreement
+
+What is a software bug?
+A. An error in the source code
+B. A mistake in the design
+C. A digital life form
+D. A tracking device
+A. An error in the source code
+
+What term describes a significant date in the development process?
+A. Deadline
+B. Milestone
+C. Achievement
+D. Release
+B. Milestone
+
+Who created the game Smugglers 2?
+A. Niels Bauer
+B. Andre´ LaMothe
+C. John Carmack
+D. Ellie Arroway
+A. Niels Bauer
+
+For whom should you create a game for the purpose of entertainment?
+A. Yourself
+B. Gamers
+C. Publishers
+D. Marketers
+A. Yourself

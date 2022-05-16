@@ -1,0 +1,69 @@
+Which function is used to initialize the keyboard handler?
+A. initialize_keyboard
+B. install_keyboard
+C. init_keyboard
+D. install_keyboard_handler
+B. install_keyboard
+
+What does ANSI stand for?
+A. American Negligible Situation Imperative
+B. American Nutritional Studies Institute
+C. American National Standards Institute
+D. American National Scuba Institute
+C. American National Standards Institute
+
+What is the name of the array containing keyboard scan codes?
+A. key
+B. keyboard
+C. scancodes
+D. keys
+A. key
+
+Where is the real stargate located?
+A. Salt Lake City, Utah
+B. San Antonio, Texas
+C. Colorado Springs, Colorado
+D. Cairo, Egypt
+C. Colorado Springs, Colorado
+
+Which function provides buffered keyboard input?
+A. scankey
+B. getkey
+C. readkey
+D. buffered_input
+C. readkey
+
+Which function is used to initialize the mouse handler?
+A. install_mouse
+B. instantiate_mouse
+C. initialize_mouse
+D. ingratiate_mouse
+A. install_mouse
+
+Which values or functions are used to read the mouse position?
+A. mouse_x and mouse_y
+B. get_mouse_x and get_mouse_y
+C. mousex and mousey
+D. mouse_position_x and mouse_position_y
+A. mouse_x and mouse_y
+
+Which function is used to read the mouse x and y mickeys for relative motion?
+A. mickey_mouse
+B. read_mouse_mickeys
+C. mouse_mickeys
+D. get_mouse_mickeys
+D. get_mouse_mickeys
+
+What is the name of the main JOYSTICK_INFO array?
+A. joysticks
+B. joy
+C. sticks
+D. joystick
+B. joy
+
+Which struct contains joystick button data?
+A. JOYSTICK_BUTTONS
+B. JOYSTICK_BUTTON
+C. JOYSTICK_BUTTON_INFO
+D. JOYSTICK_BUTTON_DATA
+C. JOYSTICK_BUTTON_INFO

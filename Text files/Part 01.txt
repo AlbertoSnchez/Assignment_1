@@ -1,0 +1,419 @@
+What programming language is used in this book?
+A. C
+B. Pascal
+C. C++
+D. Assembly
+A. C
+
+What is the name of the free multi-platform game library used in this book?
+A. Treble
+B. Staccato
+C. Allegro
+D. FreeBSD
+C. Allegro
+
+What compiler can you use to compile the programs in this book?
+A. Dev-C++
+B. Borland C++Builder
+C. Microsoft Visual C++
+D. All of the above
+D. All of the above
+
+Which operating system does Allegro support?
+A. Windows
+B. Linux
+C. Mac OS X
+D. All of the above
+D. All of the above
+
+Which of the following is a popular strategy game for the PC?
+A. Counter-Strike
+B. Splinter Cell
+C. Civilization IV
+D. Advance Wars
+C. Civilization IV
+
+What is the most important factor to consider when working on a game?
+A. Graphics
+B. Sound effects
+C. Gameplay
+D. Level design
+C. Gameplay
+
+What is the name of the free open-source IDE/compiler included on the CD-ROM?
+A. Visual C++
+B. Dev-C++
+C. Watcom C++
+D. C++Builder
+B. Dev-C++
+
+What is the name of the most popular game development library in the world?
+A. OpenGL
+B. DJGPP
+C. DirectX
+D. Allegro
+C. DirectX
+
+Which of the following books discusses the gaming culture of the late 1980s and early 1990s with strong emphasis on the exploits of id Software?
+A. Masters of Doom
+B. The Age of Spiritual Machines
+C. The Inmates Are Running the Asylum
+D. Silicon Snake Oil
+A. Masters of Doom
+
+According to the author, which of the following is one of the best games made in the 1980s?
+A. Civilization III
+B. Counter-Strike
+C. King’s Quest IV: The Perils of Rosella
+D. Starflight
+D. Starflight
+
+What version of Allegro are we using here?
+A. 1.0
+B. 2.4
+C. 4.2
+D. 5.3
+C. 4.2
+
+GNU is an acronym for which of the following phrases?
+A. GNU is Not UNIX
+B. Great Northern University
+C. Central Processing Unit
+D. None of the above
+A. GNU is Not UNIX
+
+What is the primary website for Dev-C++?
+A. http://www.microsoft.com
+B. http://www.bloodshed.net
+C. http://www.borland.com
+D. http://www.fsf.org
+B. http://www.bloodshed.net
+
+What is the name of the compiler used by Dev-Pascal?
+A. GNU Pascal
+B. Turbo Pascal
+C. Object Pascal
+D. Microsoft Pascal
+A. GNU Pascal
+
+What version of Dev-C++ are we using in this book?
+A. 3.0
+B. 4.0
+C. 5.0
+D. 6.0
+C. 5.0
+
+Which version of Visual C++ are we focusing primarily on in this book?
+A. 6.0
+B. 7.0 (2002)
+C. 7.1 (2003)
+D. 8.0 (2005)
+C. 7.1 (2003)
+
+What distinctive feature of Dev-C++ sets it apart from commercial development tools?
+A. Dev-C++ is open-source
+B. Dev-C++ is free
+C. Dev-C++ is multi-platform
+D. All of the above
+D. All of the above
+
+What is the name of the game programming library featured in this chapter?
+A. DirectX
+B. Gnome
+C. GTK+
+D. Allegro
+D. Allegro
+
+What function must be called before you use the Allegro library?
+A. main()
+B. byte_me()
+C. allegro_init()
+D. lets_get_started()
+C. allegro_init()
+
+What statement must be included at the end of main() in an Allegro program?
+A. END_OF_THE_WORLD()
+B. END_OF_MAIN()
+C. END_OF_FREEDOM()
+D. AH_DONUTS()
+B. END_OF_MAIN()
+
+What is the term used to describe line-based graphics?
+A. Vector
+B. Bitmap
+C. Polygon
+D. Pixel
+A. Vector
+
+What does CRT stand for?
+A. Captain Ron Teague
+B. Corporate Resource Training
+C. Cathode Ray Tube
+D. Common Relativistic Torch
+C. Cathode Ray Tube
+
+What describes a function that draws a simple geometric shape, such as a point, line, rectangle, or circle?
+A. putpixel
+B. Graphics Primitive
+C. triangle
+D. polygon
+B. Graphics Primitive
+
+How many polygons does the typical 3D accelerator chip process at a time?
+A. 16
+B. 8
+C. 1
+D. 256
+C. 1
+
+What is comprised of three small streams of electrons of varying shades of red, green, and blue?
+A. Superstring
+B. Quantum particle
+C. Electron gun
+D. Pixel
+D. Pixel
+
+What function is used to create a custom 24- or 32-bit color?
+A. makecol
+B. rgb
+C. color
+D. truecolor
+A. makecol
+
+What function is used to draw filled rectangles?
+A. fill_rect
+B. fillrect
+C. filledrectangle
+D. rectfill
+D. rectfill
+
+Which of the following is the correct definition of the circle function?
+A. void circle(BITMAP bmp, int x, int y, int radius, int color);
+B. void draw_circle(BITMAP bmp, int x, int y, int radius);
+C. int circle(BITMAP bmp, int y, int x, int radius, int color);
+D. bool circle(BITMAP bmp, int x, int y, int color);
+A. void circle(BITMAP bmp, int x, int y, int radius, int color);
+
+What function draws a set of curves based on a set of four input points stored in an array?
+A. jagged
+B. draw_curves
+C. spline
+D. polygon
+C. spline
+
+Which text output function draws a formatted string with justification?
+A. textout_justify
+B. textprintf_right
+C. textout_centre
+D. textprintf_justify
+D. textprintf_justify
+
+What is the primary graphics drawing function used to draw the tanks in Tank War?
+A. rectfill
+B. fillrect
+C. drawrect
+D. rectangle
+A. rectfill
+
+What function in Tank War sets up a bullet to fire in the direction of the tank?
+A. pulltrigger
+B. launchprojectile
+C. fireweapon
+D. firecannon
+C. fireweapon
+
+What function in Tank War updates the position and draws each projectile?
+A. updatecannon
+B. movebullet
+C. moveprojectile
+D. updatebullet
+D. updatebullet
+
+What is the name of the organization that produced GCC?
+A. Free Software Foundation
+B. GNU
+C. Freeware
+D. Open Source
+A. Free Software Foundation
+
+How many players are supported in Tank War at the same time?
+A. 1
+B. 2
+C. 3
+D. 4
+B. 2
+
+What is the technical terminology for handling two objects that crash in the game?
+A. Crash override
+B. Sprite insurance
+C. Collision detection
+D. Handling the crash
+C. Collision detection
+
+What function in Tank War keeps the tanks from colliding with other objects?
+A. makepath
+B. clearpath
+C. buildpath
+D. dontcollide
+B. clearpath
+
+Which function in Tank War helps to find out whether a point on the screen is black?
+A. getpixel
+B. findcolor
+C. getcolor
+D. checkpixel
+A. getpixel
+
+What is the standard constant used to run Allegro in windowed mode?
+A. GFX_RUNINA_WINDOW
+B. GFX_DETECT_WINDOWED
+C. GFX_AUTODETECT_WINDOWS
+D. GFX_AUTODETECT_WINDOWED
+D. GFX_AUTODETECT_WINDOWED
+
+What function in Allegro is used to slow the game down?
+A. pause
+B. slow
+C. rest
+D. stop
+C. rest
+
+Which function is used to initialize the keyboard handler?
+A. initialize_keyboard
+B. install_keyboard
+C. init_keyboard
+D. install_keyboard_handler
+B. install_keyboard
+
+What does ANSI stand for?
+A. American Negligible Situation Imperative
+B. American Nutritional Studies Institute
+C. American National Standards Institute
+D. American National Scuba Institute
+C. American National Standards Institute
+
+What is the name of the array containing keyboard scan codes?
+A. key
+B. keyboard
+C. scancodes
+D. keys
+A. key
+
+Where is the real stargate located?
+A. Salt Lake City, Utah
+B. San Antonio, Texas
+C. Colorado Springs, Colorado
+D. Cairo, Egypt
+C. Colorado Springs, Colorado
+
+Which function provides buffered keyboard input?
+A. scankey
+B. getkey
+C. readkey
+D. buffered_input
+C. readkey
+
+Which function is used to initialize the mouse handler?
+A. install_mouse
+B. instantiate_mouse
+C. initialize_mouse
+D. ingratiate_mouse
+A. install_mouse
+
+Which values or functions are used to read the mouse position?
+A. mouse_x and mouse_y
+B. get_mouse_x and get_mouse_y
+C. mousex and mousey
+D. mouse_position_x and mouse_position_y
+A. mouse_x and mouse_y
+
+Which function is used to read the mouse x and y mickeys for relative motion?
+A. mickey_mouse
+B. read_mouse_mickeys
+C. mouse_mickeys
+D. get_mouse_mickeys
+D. get_mouse_mickeys
+
+What is the name of the main JOYSTICK_INFO array?
+A. joysticks
+B. joy
+C. sticks
+D. joystick
+B. joy
+
+Which struct contains joystick button data?
+A. JOYSTICK_BUTTONS
+B. JOYSTICK_BUTTON
+C. JOYSTICK_BUTTON_INFO
+D. JOYSTICK_BUTTON_DATA
+C. JOYSTICK_BUTTON_INFO
+
+What is the name of the function that initializes the Allegro sound system?
+A. install_sound
+B. init_sound
+C. initialize_sound_system
+D. init_snd
+A. install_sound
+
+Which function can you use to play a sound effect in your own games?
+A. start_playback
+B. play_sound
+C. play_sample
+D. digi_snd_play
+C. play_sample
+
+What is the name of the function that specifically loads a RIFF WAV file?
+A. load_riff
+B. load_wav
+C. load_wave
+D. load_riff_wav
+B. load_wav
+
+Which function can be used to change the frequency, volume, panning, and looping properties of a sample?
+A. modify_sample
+B. change_sample
+C. alter_sample
+D. adjust_sample
+D. adjust_sample
+
+What function would you use to shut down the Allegro sound system?
+A. uninstall_sound
+B. remove_sound
+C. close_sound
+D. close_sound_system
+B. remove_sound
+
+Which function provides the ability to change the overall volume of sound output?
+A. set_volume
+B. change_volume
+C. fix_volume
+D. set_vol
+A. set_volume
+
+What is the name of the function used to stop playback of a sample?
+A. stop_playback
+B. stop_playing
+C. halt_playback
+D. stop_sample
+D. stop_sample
+
+Within what range must a panning value remain?
+A. –32,768 to 32,767
+B. 0 to 65,536
+C. 1 to 100
+D. 0 to 255
+D. 0 to 255
+
+What parameter should you pass to install_sound to initialize the standard digital sound driver?
+A. SND_AUTODETECT
+B. SND_AUTODETECT_DIGITAL
+C. DIGI_AUTODETECT
+D. DIGI_AUTODETECT_SOUND
+C. DIGI_AUTODETECT
+
+What is the name of the function that plays a sample through the sound mixer?
+A. start_playback
+B. play_sample
+C. play_sample_mix
+D. start_mix_playback
+B. play_sample

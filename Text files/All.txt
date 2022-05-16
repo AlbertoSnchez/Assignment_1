@@ -1,0 +1,1539 @@
+What programming language is used in this book?
+A. C
+B. Pascal
+C. C++
+D. Assembly
+A. C
+
+What is the name of the free multi-platform game library used in this book?
+A. Treble
+B. Staccato
+C. Allegro
+D. FreeBSD
+C. Allegro
+
+What compiler can you use to compile the programs in this book?
+A. Dev-C++
+B. Borland C++Builder
+C. Microsoft Visual C++
+D. All of the above
+D. All of the above
+
+Which operating system does Allegro support?
+A. Windows
+B. Linux
+C. Mac OS X
+D. All of the above
+D. All of the above
+
+Which of the following is a popular strategy game for the PC?
+A. Counter-Strike
+B. Splinter Cell
+C. Civilization IV
+D. Advance Wars
+C. Civilization IV
+
+What is the most important factor to consider when working on a game?
+A. Graphics
+B. Sound effects
+C. Gameplay
+D. Level design
+C. Gameplay
+
+What is the name of the free open-source IDE/compiler included on the CD-ROM?
+A. Visual C++
+B. Dev-C++
+C. Watcom C++
+D. C++Builder
+B. Dev-C++
+
+What is the name of the most popular game development library in the world?
+A. OpenGL
+B. DJGPP
+C. DirectX
+D. Allegro
+C. DirectX
+
+Which of the following books discusses the gaming culture of the late 1980s and early 1990s with strong emphasis on the exploits of id Software?
+A. Masters of Doom
+B. The Age of Spiritual Machines
+C. The Inmates Are Running the Asylum
+D. Silicon Snake Oil
+A. Masters of Doom
+
+According to the author, which of the following is one of the best games made in the 1980s?
+A. Civilization III
+B. Counter-Strike
+C. King’s Quest IV: The Perils of Rosella
+D. Starflight
+D. Starflight
+
+What version of Allegro are we using here?
+A. 1.0
+B. 2.4
+C. 4.2
+D. 5.3
+C. 4.2
+
+GNU is an acronym for which of the following phrases?
+A. GNU is Not UNIX
+B. Great Northern University
+C. Central Processing Unit
+D. None of the above
+A. GNU is Not UNIX
+
+What is the primary website for Dev-C++?
+A. http://www.microsoft.com
+B. http://www.bloodshed.net
+C. http://www.borland.com
+D. http://www.fsf.org
+B. http://www.bloodshed.net
+
+What is the name of the compiler used by Dev-Pascal?
+A. GNU Pascal
+B. Turbo Pascal
+C. Object Pascal
+D. Microsoft Pascal
+A. GNU Pascal
+
+What version of Dev-C++ are we using in this book?
+A. 3.0
+B. 4.0
+C. 5.0
+D. 6.0
+C. 5.0
+
+Which version of Visual C++ are we focusing primarily on in this book?
+A. 6.0
+B. 7.0 (2002)
+C. 7.1 (2003)
+D. 8.0 (2005)
+C. 7.1 (2003)
+
+What distinctive feature of Dev-C++ sets it apart from commercial development tools?
+A. Dev-C++ is open-source
+B. Dev-C++ is free
+C. Dev-C++ is multi-platform
+D. All of the above
+D. All of the above
+
+What is the name of the game programming library featured in this chapter?
+A. DirectX
+B. Gnome
+C. GTK+
+D. Allegro
+D. Allegro
+
+What function must be called before you use the Allegro library?
+A. main()
+B. byte_me()
+C. allegro_init()
+D. lets_get_started()
+C. allegro_init()
+
+What statement must be included at the end of main() in an Allegro program?
+A. END_OF_THE_WORLD()
+B. END_OF_MAIN()
+C. END_OF_FREEDOM()
+D. AH_DONUTS()
+B. END_OF_MAIN()
+
+What is the term used to describe line-based graphics?
+A. Vector
+B. Bitmap
+C. Polygon
+D. Pixel
+A. Vector
+
+What does CRT stand for?
+A. Captain Ron Teague
+B. Corporate Resource Training
+C. Cathode Ray Tube
+D. Common Relativistic Torch
+C. Cathode Ray Tube
+
+What describes a function that draws a simple geometric shape, such as a point, line, rectangle, or circle?
+A. putpixel
+B. Graphics Primitive
+C. triangle
+D. polygon
+B. Graphics Primitive
+
+How many polygons does the typical 3D accelerator chip process at a time?
+A. 16
+B. 8
+C. 1
+D. 256
+C. 1
+
+What is comprised of three small streams of electrons of varying shades of red, green, and blue?
+A. Superstring
+B. Quantum particle
+C. Electron gun
+D. Pixel
+D. Pixel
+
+What function is used to create a custom 24- or 32-bit color?
+A. makecol
+B. rgb
+C. color
+D. truecolor
+A. makecol
+
+What function is used to draw filled rectangles?
+A. fill_rect
+B. fillrect
+C. filledrectangle
+D. rectfill
+D. rectfill
+
+Which of the following is the correct definition of the circle function?
+A. void circle(BITMAP bmp, int x, int y, int radius, int color);
+B. void draw_circle(BITMAP bmp, int x, int y, int radius);
+C. int circle(BITMAP bmp, int y, int x, int radius, int color);
+D. bool circle(BITMAP bmp, int x, int y, int color);
+A. void circle(BITMAP bmp, int x, int y, int radius, int color);
+
+What function draws a set of curves based on a set of four input points stored in an array?
+A. jagged
+B. draw_curves
+C. spline
+D. polygon
+C. spline
+
+Which text output function draws a formatted string with justification?
+A. textout_justify
+B. textprintf_right
+C. textout_centre
+D. textprintf_justify
+D. textprintf_justify
+
+What is the primary graphics drawing function used to draw the tanks in Tank War?
+A. rectfill
+B. fillrect
+C. drawrect
+D. rectangle
+A. rectfill
+
+What function in Tank War sets up a bullet to fire in the direction of the tank?
+A. pulltrigger
+B. launchprojectile
+C. fireweapon
+D. firecannon
+C. fireweapon
+
+What function in Tank War updates the position and draws each projectile?
+A. updatecannon
+B. movebullet
+C. moveprojectile
+D. updatebullet
+D. updatebullet
+
+What is the name of the organization that produced GCC?
+A. Free Software Foundation
+B. GNU
+C. Freeware
+D. Open Source
+A. Free Software Foundation
+
+How many players are supported in Tank War at the same time?
+A. 1
+B. 2
+C. 3
+D. 4
+B. 2
+
+What is the technical terminology for handling two objects that crash in the game?
+A. Crash override
+B. Sprite insurance
+C. Collision detection
+D. Handling the crash
+C. Collision detection
+
+What function in Tank War keeps the tanks from colliding with other objects?
+A. makepath
+B. clearpath
+C. buildpath
+D. dontcollide
+B. clearpath
+
+Which function in Tank War helps to find out whether a point on the screen is black?
+A. getpixel
+B. findcolor
+C. getcolor
+D. checkpixel
+A. getpixel
+
+What is the standard constant used to run Allegro in windowed mode?
+A. GFX_RUNINA_WINDOW
+B. GFX_DETECT_WINDOWED
+C. GFX_AUTODETECT_WINDOWS
+D. GFX_AUTODETECT_WINDOWED
+D. GFX_AUTODETECT_WINDOWED
+
+What function in Allegro is used to slow the game down?
+A. pause
+B. slow
+C. rest
+D. stop
+C. rest
+
+Which function is used to initialize the keyboard handler?
+A. initialize_keyboard
+B. install_keyboard
+C. init_keyboard
+D. install_keyboard_handler
+B. install_keyboard
+
+What does ANSI stand for?
+A. American Negligible Situation Imperative
+B. American Nutritional Studies Institute
+C. American National Standards Institute
+D. American National Scuba Institute
+C. American National Standards Institute
+
+What is the name of the array containing keyboard scan codes?
+A. key
+B. keyboard
+C. scancodes
+D. keys
+A. key
+
+Where is the real stargate located?
+A. Salt Lake City, Utah
+B. San Antonio, Texas
+C. Colorado Springs, Colorado
+D. Cairo, Egypt
+C. Colorado Springs, Colorado
+
+Which function provides buffered keyboard input?
+A. scankey
+B. getkey
+C. readkey
+D. buffered_input
+C. readkey
+
+Which function is used to initialize the mouse handler?
+A. install_mouse
+B. instantiate_mouse
+C. initialize_mouse
+D. ingratiate_mouse
+A. install_mouse
+
+Which values or functions are used to read the mouse position?
+A. mouse_x and mouse_y
+B. get_mouse_x and get_mouse_y
+C. mousex and mousey
+D. mouse_position_x and mouse_position_y
+A. mouse_x and mouse_y
+
+Which function is used to read the mouse x and y mickeys for relative motion?
+A. mickey_mouse
+B. read_mouse_mickeys
+C. mouse_mickeys
+D. get_mouse_mickeys
+D. get_mouse_mickeys
+
+What is the name of the main JOYSTICK_INFO array?
+A. joysticks
+B. joy
+C. sticks
+D. joystick
+B. joy
+
+Which struct contains joystick button data?
+A. JOYSTICK_BUTTONS
+B. JOYSTICK_BUTTON
+C. JOYSTICK_BUTTON_INFO
+D. JOYSTICK_BUTTON_DATA
+C. JOYSTICK_BUTTON_INFO
+
+What is the name of the function that initializes the Allegro sound system?
+A. install_sound
+B. init_sound
+C. initialize_sound_system
+D. init_snd
+A. install_sound
+
+Which function can you use to play a sound effect in your own games?
+A. start_playback
+B. play_sound
+C. play_sample
+D. digi_snd_play
+C. play_sample
+
+What is the name of the function that specifically loads a RIFF WAV file?
+A. load_riff
+B. load_wav
+C. load_wave
+D. load_riff_wav
+B. load_wav
+
+Which function can be used to change the frequency, volume, panning, and looping properties of a sample?
+A. modify_sample
+B. change_sample
+C. alter_sample
+D. adjust_sample
+D. adjust_sample
+
+What function would you use to shut down the Allegro sound system?
+A. uninstall_sound
+B. remove_sound
+C. close_sound
+D. close_sound_system
+B. remove_sound
+
+Which function provides the ability to change the overall volume of sound output?
+A. set_volume
+B. change_volume
+C. fix_volume
+D. set_vol
+A. set_volume
+
+What is the name of the function used to stop playback of a sample?
+A. stop_playback
+B. stop_playing
+C. halt_playback
+D. stop_sample
+D. stop_sample
+
+Within what range must a panning value remain?
+A. –32,768 to 32,767
+B. 0 to 65,536
+C. 1 to 100
+D. 0 to 255
+D. 0 to 255
+
+What parameter should you pass to install_sound to initialize the standard digital sound driver?
+A. SND_AUTODETECT
+B. SND_AUTODETECT_DIGITAL
+C. DIGI_AUTODETECT
+D. DIGI_AUTODETECT_SOUND
+C. DIGI_AUTODETECT
+
+What is the name of the function that plays a sample through the sound mixer?
+A. start_playback
+B. play_sample
+C. play_sample_mix
+D. start_mix_playback
+B. play_sample
+
+What does ‘‘blit’’ stand for?
+A. Blitzkrieg
+B. Bit-block transfer
+C. Bit-wise transparency
+D. Basic logarithmic infrared transmitter
+B. Bit-block transfer
+
+What is a DHD?
+A. Dynamic hard drive
+B. Destructive hyperactivity disorder
+C. Dial home device
+D. That wasn’t in the chapter!
+C. Dial home device
+
+How many pixels are there in an 800600 screen?
+A. 480,000
+B. 28,800,000
+C. 65,538
+D. 47
+A. 480,000
+
+What is the name of the object used to hold a bitmap in memory?
+A. hold_bitmap
+B. create_bitmap
+C. OBJECT
+D. BITMAP
+D. BITMAP
+
+Allegorically speaking, why is it important to destroy bitmaps after you’re done using them?
+A. Because bitmaps are evil and must be destroyed.
+B. Because Microsoft Windows is the mayor.
+C. Because the trash will pile up over time.
+D. Because you can’t reboot your home town.
+C. Because the trash will pile up over time.
+
+Which Allegro function has the potential to create a black hole if used improperly?
+A. acquire_bitmap
+B. create_supernova
+C. do_feedback
+D. release_bitmap
+A. acquire_bitmap
+
+What types of graphics files are supported by Allegro?
+A. PCX, LBM, BMP, and GIF
+B. BMP, PCX, LBM, and TGA
+C. GIF, JPG, PNG, and BMP
+D. TGA, TIF, JPG, and BMP
+B. BMP, PCX, LBM, and TGA
+
+What function is used to draw a scaled bitmap?
+A. draw_scaled_bitmap
+B. stretch_blit
+C. scaled_blit
+D. masked_scaled_blit
+B. stretch_blit
+
+Why would you want to lock the screen while drawing on it?
+A. If it’s not locked, Allegro will lock and unlock the screen for every draw.
+B. To prevent anyone else from drawing on your screen.
+C. To keep the screen from getting away while you’re using it.
+D. To prevent a feedback loop that could destroy your monitor.
+A. If it’s not locked, Allegro will lock and unlock the screen for every draw.
+
+What is the name of the game you’ve been developing in this book?
+A. Super Allegro Bros.
+B. Barbie’s Motorhome Adventure
+C. Teenage Neutered Midget Poodles
+D. Tank War
+D. Tank War
+
+What is the term given to a small image that is moved around on the screen?
+A. Bitmap
+B. Sprite
+C. Fairy
+D. Mouse cursor
+B. Sprite
+
+Which function draws a sprite?
+A. draw_sprite
+B. show_sprite
+C. display_sprite
+D. blit_sprite
+A. draw_sprite
+
+What is the term for drawing all but a certain color of pixel from one bitmap to another?
+A. Alpha blending
+B. Translucency
+C. Transparency
+D. Telekinesis
+C. Transparency
+
+Which function draws a scaled sprite?
+A. stretch_sprite
+B. draw_scaled_sprite
+C. draw_stretched_sprite
+D. scale_sprite
+A. stretch_sprite
+
+Which function draws a vertically flipped sprite?
+A. draw_vertical_flip
+B. draw_sprite_v_flip
+C. flip_v_sprite
+D. draw_flipped_sprite
+B. draw_sprite_v_flip
+
+Which function draws a rotated sprite?
+A. rotate_angle
+B. draw_rotated_sprite
+C. draw_rotation
+D. rotate_sprite
+D. rotate_sprite
+
+Which function draws a sprite with both rotation and scaling?
+A. draw_sprite_rotation_scaled
+B. rotate_scaled_sprite
+C. draw_rotated_scaled_sprite
+D. scale_rotate_sprite
+B. rotate_scaled_sprite
+
+What function draws a pivoted sprite?
+A. draw_pivoted_sprite
+B. draw_pivot_sprite
+C. pivot_sprite
+D. draw_sprite_pivot
+C. pivot_sprite
+
+Which function draws a pivoted sprite with scaling and vertical flip?
+A. pivot_scaled_sprite_v_flip
+B. pivot_stretch_v_flip_sprite
+C. draw_scaled_pivoted_flipped_sprite
+D. scale_pivot_v_flip_sprite
+A. pivot_scaled_sprite_v_flip
+
+Which function draws a sprite with translucency (alpha blending)?
+A. alpha_blend_sprite
+B. draw_trans_sprite
+C. draw_alpha
+D. trans_sprite
+B. draw_trans_sprite
+
+Which function draws a standard sprite?
+A. draw_standard_sprite
+B. standard_sprite
+C. draw_sprite
+D. blit_sprite
+C. draw_sprite
+
+What is a frame in the context of sprite animation?
+A. A single image in the animation sequence
+B. The bounding rectangle of a sprite
+C. The source image for the animation sequence
+D. A buffer image used to store temporary copies of the sprite
+A. A single image in the animation sequence
+
+What is the purpose of a sprite handler?
+A. To provide a consistent way to animate and manipulate many sprites on the screen
+B. To prevent sprites from moving beyond the edges of the screen
+C. To provide a reusable sprite drawing function
+D. To keep track of the sprite position
+A. To provide a consistent way to animate and manipulate many sprites on the screen
+
+What is a struct element?
+A. A property of a struct
+B. A sprite behavior
+C. The underlying Allegro sprite handler
+D. A variable in a structure
+D. A variable in a structure
+
+Which term describes a single frame of an animation sequence stored in an image file?
+A. Snapshot
+B. Tile
+C. Piece
+D. Take
+B. Tile
+
+Which Allegro function is used frequently to erase a sprite?
+A. rectfill
+B. erase_sprite
+C. destroy_sprite
+D. blit
+A. rectfill
+
+Which term describes a reusable activity for a sprite that is important in a game?
+A. Collision
+B. Animation
+C. Bounding
+D. Behavior
+D. Behavior
+
+What is the name of the new function that draws an animation frame to the screen?
+A. drawanim
+B. drawframe
+C. animate
+D. nextimage
+B. drawframe
+
+Which term best describes an image filled with rows and columns of small sprite images?
+A. scrolling
+B. sprite bitmap
+C. sprite sheet
+D. sprite tiles
+C. sprite sheet
+
+How does a sprite struct improve the source code of a game?
+A. Reduces global variable use
+B. Eliminates code comments
+C. Helps align code blocks
+D. Consolidates code into functions
+A. Reduces global variable use
+
+What function will convert a normal bitmap in memory into a compressed RLE sprite?
+A. convert_rle_sprite
+B. get_rle_sprite
+C. make_rle_sprite
+D. create_rle_sprite
+B. get_rle_sprite
+
+What function will draw a compressed RLE sprite?
+A. draw_sprite
+B. copy_rle_sprite
+C. draw_rle_sprite
+D. rle_blit
+C. draw_rle_sprite
+
+What function converts a normal bitmap into a compiled sprite?
+A. convert_compiled_sprite
+B. make_compiled_sprite
+C. create_compiled_sprite
+D. get_compiled_sprite
+D. get_compiled_sprite
+
+What is the name of the function presented in this chapter for performing bounding-rectangle collision testing?
+A. collided
+B. collision
+C. colliding
+D. test_collision
+A. collided
+
+What is the name of the function in the sprite class presented in this chapter that draws a single frame of an animation sequence?
+A. drawanimation
+B. nextframe
+C. drawframe
+D. draw_sprite
+C. drawframe
+
+What is the name of the function that calculates angular velocity for X?
+A. calculatevelocity
+B. velocityx
+C. calc_angle_x
+D. calcAngleMoveX
+C. calc_angle_x
+
+What mathematical function is called on to calculate the angular velocity for Y?
+A. sine
+B. cosine
+C. tangent
+D. arcsine
+A. sine
+
+Which function converts a normal sprite into a run-length encoded sprite?
+A. convert_sprite
+B. get_rle_sprite
+C. convert_to_rle
+D. load_rle_sprite
+B. get_rle_sprite
+
+Which function draws a compiled sprite to a destination bitmap?
+A. draw_compiled
+B. draw_comp_sprite
+C. draw_compiled_sprite
+D. compiled_sprite
+C. draw_compiled_sprite
+
+What is the easiest (and most efficient) way to detect sprite collisions?
+A. Bounding rectangle intersection
+B. Pixel comparison
+C. Bilinear quadratic evaluation
+D. Union of two spheres
+A. Bounding rectangle intersection
+
+Why is it important to use a timer in a game?
+A. To maintain a consistent frame rate
+B. To include support for interrupts
+C. To make the program thread-safe
+D. To delegate code to multiple threads
+A. To maintain a consistent frame rate
+
+Which Allegro timer function slows down the program using a callback function?
+A. callback_rest
+B. sleep_callback
+C. rest
+D. rest_callback
+D. rest_callback
+
+What is the name of the function used to initialize the Allegro timer?
+A. init_timer
+B. install_timer
+C. timer_reset
+D. start_timer
+B. install_timer
+
+What is the name of the function that creates a new interrupt handler?
+A. create_handler
+B. create_interrupt
+C. int_callback
+D. install_int
+D. install_int
+
+What variable declaration keyword should be used with interrupt variables?
+A. danger
+B. cautious
+C. volatile
+D. corruptible
+C. volatile
+
+What function must you call during program startup to initialize the timer system?
+A. create_timer
+B. init_timer
+C. install_timer
+D. make_timer
+C. install_timer
+
+What is the name of the function that provides a callback function for slowing down the program?
+A. rest_callback
+B. pause_proc
+C. wait_func
+D. sleep_callback
+A. rest_callback
+
+Which function should you use to slow down the game, causing the program to pause for a certain number of millseconds?
+A. wait
+B. pause
+C. rest
+D. sleep
+C. rest
+
+What function must you call to prepare a variable for use within an interruptbcallback routine?
+A. lock_object
+B. LOCK_VARIABLE
+C. prepare_variable
+D. PROTECT_VARIABLE
+B. LOCK_VARIABLE
+
+What function must you call to prepare a function for use as an interrupt callback?
+A. lock_object
+B. PREPARE_FUNCTION
+C. prepare_routine
+D. LOCK_FUNCTION
+D. LOCK_FUNCTION
+
+Does Allegro provide support for background scrolling?
+A. Yes, but the functionality is obsolete
+B. Yes, it’s fully integrated
+C. Only partially
+D. Not at all
+A. Yes, but the functionality is obsolete
+
+What does a scroll window show?
+A. A small part of a larger game world
+B. Pictures of scrolls
+C. A window moving up and down
+D. A single tile of the map
+A. A small part of a larger game world
+
+Which of the programs in this chapter demonstrated bitmap scrolling for the first time?
+A. TileScroll
+B. DynamicScroller
+C. ScrollScreen
+D. ScrollTest
+C. ScrollScreen
+
+Why should a scrolling background be designed?
+A. To improve the game’s appearance
+B. To enlarge the game world
+C. To increase sales potential
+D. To achieve the goals of the game
+D. To achieve the goals of the game
+
+Which process uses an array of images to construct the background as it is displayed?
+A. Sprite blitting
+B. Image compositing
+C. Tiling
+D. Level editing
+C. Tiling
+
+What is the best way to create a tile map of the game world?
+A. By using a map editor
+B. By storing level data as a const array
+C. By generating random tiles
+D. By using a custom level editor
+A. By using a map editor
+
+What type of object comprises a typical tile map?
+A. Strings
+B. Binary data
+C. Numbers
+D. Pointers
+C. Numbers
+
+What was the size of the virtual background in the GameWorld program?
+A. 800800
+B. 8,0008,000
+C. 1,0002,000
+D. 32,00032,000
+A. 800800
+
+How many virtual backgrounds are used in the new version of Tank War?
+A. 0
+B. 1
+C. 2
+D. 3
+B. 1
+
+How many scrolling windows are used in the new Tank War?
+A. 0
+B. 1
+C. 2
+D. 3
+C. 2
+
+What is the home site for Mappy?
+A. http://www.mappy.com
+B. http://www.maptiles.com
+C. http://www.tilemap.co.uk
+D. http://www.mappy.co.uk
+C. http://www.tilemap.co.uk
+
+What kind of information is stored in a map file?
+A. Data that represent the tiles comprising a game world
+B. Data that specify the game environment
+C. Data that describe the characters in a game
+D. Data that identify the background images of a game
+A. Data that represent the tiles comprising a game world
+
+What name is given to the graphic images that make up a Mappy level?
+A. Sprites
+B. Levels
+C. Maps
+D. Tiles
+D. Tiles
+
+What is the default extension of a Mappy file?
+A. SMF
+B. MAP
+C. FMP
+D. BMP
+C. FMP
+
+Where does Mappy store the saved tile images?
+A. Inside a new bitmap file
+B. Inside the map file
+C. In individual bitmap files
+D. At a location specified by the user
+B. Inside the map file
+
+What is one example of a retail game that uses Mappy levels?
+A. Hot Wheels: Stunt Track Driver 2
+B. Hyperspace Delivery Boy
+C. Real War: Rogue States
+D. Wayne Gretzky and the NHLPA All-Stars
+B. Hyperspace Delivery Boy
+
+What is the recommended format for an exported Mappy level?
+A. Binary
+B. Hexadecimal
+C. XML
+D. Text map data
+D. Text map data
+
+Which macro in Mappy fills a map with a specified tile?
+A. Solid Rectangle
+B. Fill Map
+C. Solid Fill
+D. Fill Tiles
+A. Solid Rectangle
+
+How much does a licensed copy of Mappy cost?
+A. $10
+B. $20
+C. $30
+D. It’s free!
+D. It’s free!
+
+What scripting language does Mappy support?
+A. BASIC
+B. LUA
+C. Python
+D. ASP
+B. LUA
+
+What is the name of the map editor we’ve been using in this chapter?
+A. Tile Editor
+B. Map Edit
+C. Mappy
+D. TestMappy
+C. Mappy
+
+What is the name of the function used to load a level/map file?
+A. MapLoad
+B. LoadLevel
+C. OpenMap
+D. ReadLevel
+A. MapLoad
+
+What is the name of the helper library used in this chapter to load game levels/maps?
+A. LevelLib
+B. MappyAL
+C. SpriteLib
+D. MapFile
+B. MappyAL
+
+What function would you use to draw the foreground layer of a map?
+A. DrawForeground
+B. DrawMapLayer
+C. DrawLevelFG
+D. MapDrawFG
+D. MapDrawFG
+
+What is the name of the global variable containing the width of a tile map that has been loaded?
+A. tilemapwidth
+B. mapwidth
+C. tileMapSizeX
+D. tilewidth
+B. mapwidth
+
+What function is used to draw the background layer of a map?
+A. DrawBG
+B. MapDrawBG
+C. DrawBackground
+D. DrawMapLayer
+B. MapDrawBG
+
+What function returns the tile number at a specified x,y position on the map?
+A. gettilenumber
+B. getmaptile
+C. MapGetBlockID
+D. mapGetTile
+C. MapGetBlockID
+
+What is the name of the global variable containing the height value of tiles contained in the map file that has been loaded?
+A. maptilesize
+B. tileheight
+C. mapblockheight
+D. blocksize
+C. mapblockheight
+
+What function should you call before ending the program to free the memory used by map data?
+A. MapFreeMem
+B. freemapdata
+C. deleteMap
+D. clearMapData
+A. MapFreeMem
+
+Which MappyAL library function loads a Mappy file?
+A. MapLoad
+B. LoadMap
+C. MappyLoad
+D. OpenMap
+A. MapLoad
+
+In which game genre does the vertical shooter belong?
+A. Shoot-em-up
+B. Platform
+C. Fighting
+D. Real-time strategy
+A. Shoot-em-up
+
+What is the name of the support library used as the vertical scroller engine?
+A. ScrollerEngine
+B. VerticalScroller
+C. MappyAL
+D. AllegroScroller
+C. MappyAL
+
+What are the virtual pixel dimensions of the levels in Warbirds Pacifica?
+A. 640480
+B. 48,000640
+C. 201,500
+D. 64048,000
+D. 64048,000
+
+What is the name of the level-editing program used to create the first level of Warbirds Pacifica?
+A. Happy
+B. Mappy
+C. Snappy
+D. Frappy
+B. Mappy
+
+How many tiles comprise a level in Warbirds Pacifica?
+A. 30,000
+B. 1,500
+C. 48,000
+D. 32,768
+A. 30,000
+
+Which of the following games is a vertical scrolling shooter?
+A. R-Type
+B. Mars Matrix
+C. Contra
+D. Castlevania
+B. Mars Matrix
+
+Who created the artwork featured in this chapter?
+A. Ray Kurzweil
+B. Clifford Stoll
+C. Ari Feldman
+D. Nicholas Negroponte
+C. Ari Feldman
+
+Which MappyAL function loads a map file?
+A. LoadMap
+B. MapLoad
+C. LoadMappy
+D. ReadLevel
+B. MapLoad
+
+Which MappyAL function removes a map from memory?
+A. destroy_map
+B. free_mappy
+C. DeleteMap
+D. MapFreeMem
+D. MapFreeMem
+
+Which classic arcade game inspired Warbirds Pacifica?
+A. Pac-Man
+B. Mars Matrix
+C. 1942
+D. Street Fighter II
+C. 1942
+
+Which term is often used to describe a horizontal-scrolling game with a walking character?
+A. Shooter
+B. Platform
+C. RPG
+D. Walker
+B. Platform
+
+What is the name of the map-editing tool you have used in the last several chapters?
+A. Mappy
+B. Map Editor
+C. Mapper
+D. Tile Editor
+A. Mappy
+
+What is the identifier for the Mappy block property representing the background?
+A. BG1
+B. BACK
+C. BG
+D. BGND
+A. BG1
+
+What is the identifier for the Mappy block property representing the first foreground layer?
+A. FG1
+B. FORE1
+C. FG
+D. LV1
+A. FG1
+
+Which dialog box allows the editing of tile properties in Mappy?
+A. Tile Properties
+B. Map Tile Editor
+C. Map Block Editor
+D. Block Properties
+D. Block Properties
+
+Which menu item brings up the Range Alter Block Properties dialog?
+A. Range Alter Block Properties
+B. Range Edit Blocks
+C. Range Edit Tile Properties
+D. Range Block Edit
+B. Range Edit Blocks
+
+What is the name of the MappyAL struct that contains information about tile blocks?
+A. BLOCKS
+B. TILEBLOCK
+C. BLKSTR
+D. BLKINFO
+C. BLKSTR
+
+What MappyAL function returns a pointer to a block specified by the (x,y) parameters?
+A. MapGetBlock
+B. GetDataBlock
+C. GetTileAt
+D. MapGetTile
+A. MapGetBlock
+
+What is the name of the function that draws the map’s background?
+A. MapDrawBG
+B. DrawBackground
+C. DrawMapBack
+D. DrawMapBG
+A. MapDrawBG
+
+Which MappyAL block struct member was used to detect collisions in the sample program?
+A. bl
+B. br
+C. tl
+D. tr
+C. tl
+
+What is the best way to get started creating a new game?
+A. Write the source code for a prototype
+B. Create a game design document
+C. Hire the cast and crew
+D. Play other games to engender some inspiration
+D. Play other games to engender some inspiration
+
+What types of games are full of creativity and interesting technology that PC gamers often fail to notice?
+A. Console games
+B. Arcade games
+C. PC games
+D. Board games
+A. Console games
+
+What phrase best describes the additional features and extras in a game?
+A. Bonus levels
+B. Easter eggs
+C. Bells and whistles
+D. Updates and patches
+C. Bells and whistles
+
+What is usually the most complicated core component of a game, also called the graphics renderer?
+A. The DirectX library
+B. The Allegro library
+C. The double-buffer
+D. The game engine
+D. The game engine
+
+What is the name of an initial demonstration of a game that presents the basic gameplay elements before the actual game has been completed?
+A. Beta
+B. Prototype
+C. Demo
+D. Release
+B. Prototype
+
+What is the name of the document that contains the blueprints for a game?
+A. Game document
+B. Blueprint document
+C. Design document
+D. Construction document
+C. Design document
+
+What are the two types of game designs presented in this chapter?
+A. Mini and complete
+B. Partial and full
+C. Prototype and final
+D. Typical and sarcastic
+A. Mini and complete
+
+What does NPC stand for?
+A. Non-Pertinent Character
+B. Non-Practical Condition
+C. Non-Perfect Caricature
+D. Non-Player Character
+D. Non-Player Character
+
+What are the chances of a newcomer finding a job as a full-time game programmer or designer?
+A. Guaranteed
+B. Pretty good
+C. Questionable
+D. Negligible
+D. Negligible
+
+What is the most important aspect of game development?
+A. Design
+B. Artwork
+C. Programming
+D. Implementation
+A. Design
+
+What is the shorthand term for an Allegro datafile?
+A. datafile
+B. datfile
+C. datafile
+D. ADF
+B. datfile
+
+What compression algorithm does Allegro use for compressed datafiles?
+A. LZSS
+B. LZH
+C. ZIP
+D. RAR
+A. LZSS
+
+What is the command-line program that is used to manage Allegro datafiles?
+A. data.exe
+B. datafile.exe
+C. datafile.exe
+D. dat.exe
+D. dat.exe
+
+What is the Allegro datafile object struct called?
+A. DATA_FILE
+B. DATAFILE
+C. DAT_FILE
+D. AL_DATFILE
+B. DATAFILE
+
+What function is used to load a datafile into memory?
+A. open_data_file
+B. load_dat
+C. load_datfile
+D. load_datafile
+D. load_datafile
+
+What is the data type format shortcut string for bitmap files?
+A. BITMAP_IMAGE
+B. BITMAP
+C. BMP
+D. DATA_BITMAP
+C. BMP
+
+What is the data type constant for wave files, defined by Allegro for use in reading datafiles?
+A. DAT_RIFF_WAV
+B. DAT_WAVE
+C. DAT_SAMPLE
+D. DAT_SOUND
+C. DAT_SAMPLE
+
+What is the dat option to specify the type of file being added to the datafile?
+A. -t <type>
+B. -a <type>
+C. -d <type>
+D. -s <type>
+A. -t <type>
+
+What is the dat option to specify the color depth of a bitmap file being added to the datafile?
+A. -c <depth>
+B. -d <depth>
+C. -bpp <depth>
+D. -color <depth>
+C. -bpp <depth>
+
+Which function loads an individual object from a datafile?
+A. load_data_object
+B. load_object_file
+C. load_datafile
+D. load_datafile_object
+D. load_datafile_object
+
+Which company developed the FLI/FLC file format?
+A. Autodesk
+B. Borland
+C. Microsoft
+D. Bungie
+A. Autodesk
+
+Which product first used the FLI format?
+A. 3D Studio Max
+B. WordPerfect
+C. Animator
+D. PC Paintbrush
+C. Animator
+
+Which product premiered the more advanced FLC format?
+A. Animator Pro
+B. PC Animation
+C. Dr. Halo
+D. CorelDRAW
+A. Animator Pro
+
+What is the common acronym used to describe both FLI and FLC files?
+A. FLICK
+B. FLICKS
+C. FLI/C
+D. FLIC
+D. FLIC
+
+Which function plays an FLIC file directly?
+A. play_fli
+B. direct_play
+C. play_animation
+D. play_flic
+A. play_fli
+
+How many FLIC files can be played back at a time by Allegro?
+A. 1
+B. 2
+C. 3
+D. 4
+A. 1
+
+Which function loads a FLIC file for low-level playback?
+A. load_fli
+B. read_fli
+C. open_fli
+D. shoo_fli
+C. open_fli
+
+Which function moves the animation to the next frame in an FLIC file?
+A. next_fli_frame
+B. get_next_frame
+C. move_frame
+D. next_fli
+A. next_fli_frame
+
+What is the name of the variable used to set the timing of FLIC playback?
+A. flic_frames
+B. playback_timer
+C. fli_playback
+D. fli_timer
+D. fli_timer
+
+What is the name of the variable that contains the bitmap of the current FLIC frame?
+A. fli_frame
+B. fli_bitmap
+C. fli_image
+D. current_fli
+B. fli_bitmap
+
+Which of the following is not one of the three deterministic algorithms covered in this chapter?
+A. Random logic
+B. Tracking
+C. Conditions
+D. Patterns
+C. Conditions
+
+Can fuzzy matrices be used without multiplying the input memberships? Why or why not?
+A. No, it is absolutely necessary to multiply the input memberships.
+B. Yes, but only after negating the matrix
+C. Yes, it is possible using AND and OR operators, and then randomly selecting action for the active cell.
+D. Yes, it is possible using XOR and NOT operators after multiplying the matrix.
+A. No, it is absolutely necessary to multiply the input memberships.
+
+Which type of system solves problems that are usually solved by specialized humans?
+A. Expert system
+B. Deterministic algorithm
+C. Conditional algorithm
+D. If-Then-Else
+A. Expert system
+
+Which type of intelligence system is based on an expert system, but is capable of determining fractions of complete answers?
+A. Genetic algorithm
+B. Fuzzy logic
+C. Deterministic algorithm
+D. Expert system
+B. Fuzzy logic
+
+Which type of intelligence system uses a method of computing solutions for a hereditary logic problem?
+A. Expert system
+B. Fuzzy logic
+C. Genetic algorithm
+D. Conditional logic
+C. Genetic algorithm
+
+Which type of intelligence system solves problems by imitating the workings of a brain?
+A. State machine
+B. Genetic algorithm
+C. Fuzzy logic
+D. Neural network
+D. Neural network
+
+Which of the following uses predetermined behaviors of objects in relation to the universe problem?
+A. Genetic algorithm
+B. Deterministic algorithm
+C. Fuzzy logic
+D. Neural network
+B. Deterministic algorithm
+
+Which type of deterministic algorithm ‘‘fakes’’ intelligence?
+A. Patterns
+B. Tracking
+C. Random motion
+D. Logic
+C. Random motion
+
+Which type of deterministic algorithm will cause one object to follow another?
+A. Tracking
+B. Conditional
+C. Patterns
+D. Random motion
+A. Tracking
+
+Which type of deterministic algorithm follows preset templates?
+A. Tracking
+B. Random motion
+C. Genetic
+D. Patterns
+D. Patterns
+
+What library did we use in this chapter to work with multi-threading?
+A. AllegroThreads
+B. pthread
+C. allegThreads
+D. BerkeleyThreads
+B. pthread
+
+Which company maintains the multi-threading library for Windows systems used in this chapter?
+A. Red Hat
+B. Microsoft
+C. Sears
+D. Borland
+A. Red Hat
+
+Which function will terminate a thread?
+A. threadkill
+B. unloadthread
+C. pthread_exit
+D. threadTerminate
+C. pthread_exit
+
+What type of parameter does a thread callback function require?
+A. int thread_id
+B. void *data
+C. THREAD *thread_data
+D. thread *data
+B. void *data
+
+What is the most common method of keeping a thread running inside a thread callback function?
+A. thread callback
+B. mutex
+C. thread function
+D. while loop
+D. while loop
+
+What is a process that runs within the memory space of a single program but is executed separately from that program?
+A. mutex
+B. process
+C. thread
+D. interrupt
+C. thread
+
+What helps protect data by locking it inside a single thread, preventing that data from being used by another thread until it is unlocked?
+A. mutex
+B. process
+C. thread
+D. interrupt
+A. mutex
+
+What does pthread stand for?
+A. Protected Thread
+B. Public Thread
+C. POSIX Thread
+D. Purple Thread
+C. POSIX Thread
+
+What is the name of the function used to create a new thread?
+A. create_posix_thread
+B. pthread_create
+C. install_thread
+D. thread_callback
+B. pthread_create
+
+What is the name of the function that locks a mutex?
+A. lock_pthread_mutex
+B. lock_mutex
+C. pthread_lock_mutex
+D. pthread_mutex_lock
+D. pthread_mutex_lock
+
+What is the first step you must take before attempting to get your game published?
+A. Evaluate the game
+B. Sell the game
+C. Test the game
+D. Release the game
+A. Evaluate the game
+
+What is the most important question to consider in a game before seeking a publisher?
+A. Is it challenging?
+B. Is it fun to play?
+C. Is it graphically attractive?
+D. Is it marketable?
+C. Is it graphically attractive?
+
+What is the second most important aspect of a game?
+A. Graphics
+B. Sound
+C. Music
+D. Input
+B. Sound
+
+What is an important factor of gameplay, in the sense of a beginning, middle, and ending, that must be considered?
+A. Progression
+B. Goals
+C. Difficulty
+D. Continuity
+D. Continuity
+
+What adjective best describes a best-selling game?
+A. Large
+B. Complex
+C. Cute
+D. Addictive
+D. Addictive
+
+What is an NDA?
+A. Never Diverge Anonymity
+B. No Disco Allowed
+C. Non-Disclosure Agreement
+D. Non-Discussion Agreement
+C. Non-Disclosure Agreement
+
+What is a software bug?
+A. An error in the source code
+B. A mistake in the design
+C. A digital life form
+D. A tracking device
+A. An error in the source code
+
+What term describes a significant date in the development process?
+A. Deadline
+B. Milestone
+C. Achievement
+D. Release
+B. Milestone
+
+Who created the game Smugglers 2?
+A. Niels Bauer
+B. Andre´ LaMothe
+C. John Carmack
+D. Ellie Arroway
+A. Niels Bauer
+
+For whom should you create a game for the purpose of entertainment?
+A. Yourself
+B. Gamers
+C. Publishers
+D. Marketers
+A. Yourself
